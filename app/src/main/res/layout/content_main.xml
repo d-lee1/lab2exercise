@@ -36,7 +36,7 @@
             android:text="CSE 110 "
             android:id="@+id/textView3"
             android:layout_gravity="center_horizontal"
-            android:textColor="#64bbc5"
+            android:textColor="#2a52b2"
             android:textSize="35dp" />
 
         <TextView
